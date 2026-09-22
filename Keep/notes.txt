@@ -1,6 +1,0 @@
-npm init -y
-
-npm install cors dotenv mongoose express bcrytpjs jsonwebtoken 
-
-sudo systemctl status start stop mongod
-
